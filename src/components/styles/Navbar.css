@@ -11,7 +11,7 @@
     z-index: 999;
   }
   
-  .navbar-container {
+.navbar-container {
     background-image: none;
     background-color: black;
     display: flex;
@@ -19,9 +19,9 @@
     align-items: center;
     height: 80px;
     max-width: 1500px;
-  }
+}
   
-  .navbar-logo {
+.navbar-logo {
     background-image: none;
     background-color: black;
     color: #fff;
@@ -32,15 +32,15 @@
     font-size: 2rem;
     display: flex;
     align-items: center;
-  }
+}
   
-  .fa-typo3 {
+.fa-typo3 {
     margin-left: 0.5rem;
     font-size: 1.8rem;
     height: 30px;
-  }
+}
   
-  .nav-menu {
+.nav-menu {
     display: grid;
     grid-template-columns: repeat(5, auto);
     grid-gap: 10px;
@@ -49,13 +49,13 @@
     width: 60vw;
     justify-content: end;
     margin-right: 2rem;
-  }
+}
   
-  .nav-item {
+.nav-item {
     height: 80px;
-  }
+}
   
-  .nav-links {
+.nav-links {
     background-image: none;
     background-color: black;
     color: #fff;
@@ -64,24 +64,24 @@
     text-decoration: none;
     padding: 0.5rem 1rem;
     height: 100%;
-  }
+}
   
-  .nav-links:hover {
+.nav-links:hover {
     border-bottom: 4px solid #fff;
     transition: all 0.2s ease-out;
-  }
+}
   
-  .fa-bars {
+.fa-bars {
     color: #fff;
-  }
+}
   
-  .nav-links-mobile {
+.nav-links-mobile {
     display: none;
-  }
+}
   
-  .menu-icon {
+.menu-icon {
     display: none;
-  }
+}
   
   @media screen and (max-width: 960px) {
     .NavbarItems {
