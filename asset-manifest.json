@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/online-cv/static/css/main.33a8d60f.css",
-    "main.js": "/online-cv/static/js/main.44a424f3.js",
+    "main.js": "/online-cv/static/js/main.8e2eabbb.js",
     "static/js/787.733be76b.chunk.js": "/online-cv/static/js/787.733be76b.chunk.js",
     "static/media/cooking.JPG": "/online-cv/static/media/cooking.3589c4fbd88977bb10e9.JPG",
     "static/media/pcep-certificate.pdf": "/online-cv/static/media/pcep-certificate.e4cefed2d61e4af15cfb.pdf",
@@ -17,11 +17,11 @@
     "static/media/spain.png": "/online-cv/static/media/spain.09945efd998584311bf1.png",
     "index.html": "/online-cv/index.html",
     "main.33a8d60f.css.map": "/online-cv/static/css/main.33a8d60f.css.map",
-    "main.44a424f3.js.map": "/online-cv/static/js/main.44a424f3.js.map",
+    "main.8e2eabbb.js.map": "/online-cv/static/js/main.8e2eabbb.js.map",
     "787.733be76b.chunk.js.map": "/online-cv/static/js/787.733be76b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.33a8d60f.css",
-    "static/js/main.44a424f3.js"
+    "static/js/main.8e2eabbb.js"
   ]
 }
