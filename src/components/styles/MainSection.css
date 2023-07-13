@@ -1,0 +1,74 @@
+.main-container {
+    background-image: url('/src/images/ocean2.jpg');
+    position: absolute;
+    object-fit: cover;
+    height: 90%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    object-fit: contain;
+}
+
+.main-container > h1 {
+    background: none;
+    color: #fff;
+    font-size: 40px;
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+
+.main-container > p {
+    background: none;
+    color: #fff;
+    font-size: 32px;
+    margin-top: 8px;
+    margin-bottom: 10px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.main-btns {
+    margin-top: 32px;
+}
+
+.main-btns .btn{
+    margin: 6px;
+}
+
+.profile-image {
+    position: absolute;
+    border-radius: 8px;
+    border: 2px solid #fff;
+    height: 250px;
+    width: 220px;
+    align-self: end;
+    top: 5%;
+    right: 50px;
+}
+
+@media screen and (max-width: 960px) {
+    .main-container > h1 {
+        font-size: 60px;
+        margin-top: -150px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .main-container > h1 {
+        font-size: 40px;
+        margin-top: -100px;
+    }
+
+    .main-container > p {
+        font-size: 30px;
+    }
+
+    .btn-mobile {
+        display: block;
+        text-decoration: none;
+    }
+
+    .btn {
+        width: 100%;
+    }
+}
