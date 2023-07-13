@@ -13,7 +13,7 @@ return (
     <>
     <nav className='navbar'>
         <div className='navbar-container'>
-            <Link to='/' className='navbar-logo' onClick={closeMobileMenu}>
+            <Link to='/online-cv' className='navbar-logo' onClick={closeMobileMenu}>
                 Mattias Basle
                 <img src={logo} alt='Logo' className='fa-typo3' />
             </Link>
@@ -24,27 +24,27 @@ return (
 
         <ul className={click ? 'nav-menu active' : 'nav-menu'}>
             <li className='nav-item'>
-                <Link to='/' className='nav-links' onClick={closeMobileMenu}>
+                <Link to='/online-cv' className='nav-links' onClick={closeMobileMenu}>
                     Home
                 </Link>
             </li>
             <li className='nav-item'>
-                <Link to='/education' className='nav-links' onClick={closeMobileMenu}>
+                <Link to='/online-cv/education' className='nav-links' onClick={closeMobileMenu}>
                     Education
                 </Link>
             </li>
             <li className='nav-item'>
-                <Link to='/experiences' className='nav-links' onClick={closeMobileMenu}>
+                <Link to='/online-cv/experiences' className='nav-links' onClick={closeMobileMenu}>
                     Experiences
                 </Link>
             </li>
             <li className='nav-item'>
-                <Link to='/certifications' className='nav-links' onClick={closeMobileMenu}>
+                <Link to='/online-cv/certifications' className='nav-links' onClick={closeMobileMenu}>
                     Certifications
                 </Link>
             </li>
             <li className='nav-item'>
-                <Link to='/about-me' className='nav-links' onClick={closeMobileMenu}>
+                <Link to='/online-cv/about-me' className='nav-links' onClick={closeMobileMenu}>
                     About Me
                 </Link>
             </li>
