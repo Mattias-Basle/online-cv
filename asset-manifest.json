@@ -1,16 +1,27 @@
 {
   "files": {
-    "main.css": "/online-cv/static/css/main.073c9b0a.css",
-    "main.js": "/online-cv/static/js/main.12d6a651.js",
+    "main.css": "/online-cv/static/css/main.33a8d60f.css",
+    "main.js": "/online-cv/static/js/main.44a424f3.js",
     "static/js/787.733be76b.chunk.js": "/online-cv/static/js/787.733be76b.chunk.js",
-    "static/media/logo.svg": "/online-cv/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/cooking.JPG": "/online-cv/static/media/cooking.3589c4fbd88977bb10e9.JPG",
+    "static/media/pcep-certificate.pdf": "/online-cv/static/media/pcep-certificate.e4cefed2d61e4af15cfb.pdf",
+    "static/media/ocean2.jpg": "/online-cv/static/media/ocean2.48418e3ec9899e3ae4ab.jpg",
+    "static/media/climb2.jpg": "/online-cv/static/media/climb2.d1977ad4e21fda5744b4.jpg",
+    "static/media/sail2.jpg": "/online-cv/static/media/sail2.b910df62e66a0a3479e1.jpg",
+    "static/media/jiu-jitsu.jpeg": "/online-cv/static/media/jiu-jitsu.bd495e1ae8dd0e525f29.jpeg",
+    "static/media/profil.jpg": "/online-cv/static/media/profil.eae3c6c77e62ba8e2f05.jpg",
+    "static/media/background2.jpg": "/online-cv/static/media/background2.5b327a5f05a15ef8b68f.jpg",
+    "static/media/united-kingdom.png": "/online-cv/static/media/united-kingdom.789ff1da7dc0b7ff0220.png",
+    "static/media/brazil.png": "/online-cv/static/media/brazil.99c41be9d6f55b83a35a.png",
+    "static/media/piano.jpg": "/online-cv/static/media/piano.ee21befb3979e851193a.jpg",
+    "static/media/spain.png": "/online-cv/static/media/spain.09945efd998584311bf1.png",
     "index.html": "/online-cv/index.html",
-    "main.073c9b0a.css.map": "/online-cv/static/css/main.073c9b0a.css.map",
-    "main.12d6a651.js.map": "/online-cv/static/js/main.12d6a651.js.map",
+    "main.33a8d60f.css.map": "/online-cv/static/css/main.33a8d60f.css.map",
+    "main.44a424f3.js.map": "/online-cv/static/js/main.44a424f3.js.map",
     "787.733be76b.chunk.js.map": "/online-cv/static/js/787.733be76b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.12d6a651.js"
+    "static/css/main.33a8d60f.css",
+    "static/js/main.44a424f3.js"
   ]
 }
