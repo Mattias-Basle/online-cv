@@ -1,7 +1,7 @@
 # Project Description
 This project aims at creating an online version of my CV using React.
 
-N.B: The CSS of this project is not fully completed for mobile screen.
+**Note: The CSS of this project is not fully completed for mobile screen.**
 
 ## Getting Started with Create React App
 
